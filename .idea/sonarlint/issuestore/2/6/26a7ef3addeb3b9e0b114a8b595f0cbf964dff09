@@ -1,0 +1,26 @@
+
+?
+java:S1148¢"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+s	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+>
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+>
+java:S1148~"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S2142}"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]
+java:S2142¡"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+d
+java:S3252)"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ÁÞÃôüÿÿÿÿ
+4
+java:S2119æ"Save and re-use this "Random".(¼ÝÅf
+\
+java:S2142\"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+m
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(¨ÊÕÍøÿÿÿÿ
+\
+java:S21425"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

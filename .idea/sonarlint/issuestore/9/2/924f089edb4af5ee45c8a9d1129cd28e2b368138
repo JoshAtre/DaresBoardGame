@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ŸÙ¡Ó
+B
+java:S1948
+"'Make "dares" transient or serializable.(åý¥ûÿÿÿÿ
+7
+java:S2129$"!Remove this "Integer" constructor(Ý£ÅÝ
+E
+java:S1874$"/Remove this use of "Integer"; it is deprecated.(Ý£ÅÝ

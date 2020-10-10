@@ -1,0 +1,7 @@
+
+D
+java:S2140<")Use "java.util.Random.nextInt()" instead.(ÿı¡øÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+P
+java:S1161I":Add the "@Override" annotation above this method signature(³ıŸê
