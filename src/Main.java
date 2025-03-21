@@ -33,7 +33,7 @@ public class Main extends JFrame {
         panel.add(layeredPane);
 
         dares = new DareGame();
-        layeredPane.add(dares.getBoard(), new Integer(0));
+        layeredPane.add(dares.getBoard(), 0);
         layeredPane.setVisible(true);
     }
 
